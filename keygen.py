@@ -1,6 +1,5 @@
 import secrets
 from string import ascii_letters, digits
-from xml.etree.ElementTree import tostring
 
 key = ['n', 'a', 'a', 'n', '', 'n', 'n', 'a', 'a', '', 'a', 'a', 'n', 'n', '', 'n', 'n', 'n', 'n']
 
