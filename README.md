@@ -1,2 +1,2 @@
 # KeyGen
-Just basic key generator using key_generator module
+Key Generator for Reverse Engineering course
